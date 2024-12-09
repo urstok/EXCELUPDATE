@@ -1,0 +1,5 @@
+xlsxwriter
+pandas
+yfinance
+re
+os
