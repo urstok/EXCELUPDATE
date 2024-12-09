@@ -1,0 +1,6 @@
+pip install xlsxwriter
+import pandas as pd
+import yfinance as yf
+from datetime import datetime, timedelta
+import re
+import os
